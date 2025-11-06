@@ -3,4 +3,4 @@ kind: Kustomization
 images:
 - name: solasi/hello-app
   newName: solasi/hello-app
-  newTag: 3e79a77
+  newTag: 7a39784
